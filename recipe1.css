@@ -1,0 +1,149 @@
+img {
+  width: 300px;
+  height: 300px;
+  margin-left: 0px;
+  border-radius: 30%;
+}
+
+#ingredients {
+  background-color: rgba(121, 121, 101, 0.075);
+  width: 400px;
+  padding: 20px;
+  border: 20px solid rgba(211, 96, 96, 0.555);
+  margin-left: 350px;
+}
+h1 {
+  margin-left: 0;
+}
+h2 {
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 100px;
+  margin-inline-end: 100px;
+  font-weight: bold;
+}
+#container {
+  background-color: bisque;
+  width: 90%;
+  padding: 25px;
+  border: 25px solid rgba(43, 37, 37, 0.555);
+  text-align: center;
+}
+#Direction {
+  margin-left: 100px;
+}
+#flafel {
+}
+#child {
+  text-align: center;
+}
+body {
+  background-color: silver;
+  color: white;
+  padding: 20px;
+  font-family: Arial, Verdana, sans-serif;
+}
+h1 {
+  background-color: #ffffff;
+  background-color: hsla(0, 100%, 100%, 0.5);
+  color: #64645a;
+  padding: inherit;
+}
+p {
+  padding: 5px;
+  margin: 0px;
+}
+p.zero {
+  background-color: rgb(238, 62, 128);
+}
+p.one {
+  background-color: rgb(244, 90, 139);
+}
+p.two {
+  background-color: rgb(243, 106, 152);
+}
+p.three {
+  background-color: rgb(244, 123, 166);
+}
+p.four {
+  background-color: rgb(245, 140, 178);
+}
+p.five {
+  background-color: rgb(246, 159, 192);
+}
+p.six {
+  background-color: rgb(245, 176, 204);
+}
+p.seven {
+  background-color: rgb(0, 187, 136);
+}
+p.eight {
+  background-color: rgb(140, 202, 242);
+}
+p.nine {
+  background-color: rgb(114, 193, 240);
+}
+p.ten {
+  background-color: rgb(84, 182, 237);
+}
+p.eleven {
+  background-color: rgb(48, 170, 233);
+}
+p.twelve {
+  background-color: rgb(0, 160, 230);
+}
+p.thirteen {
+  background-color: rgb(0, 149, 226);
+}
+p.fourteen {
+  background-color: rgb(0, 136, 221);
+}
+body {
+  background-color: rgb(200, 200, 200);
+  color: white;
+  padding: 20px;
+  font-family: Arial, Verdana, sans-serif;
+}
+.an h1 {
+  background-color: DarkCyan;
+  padding: inherit;
+}
+h2 {
+  background-color: #ee3e80;
+  padding: inherit;
+}
+p {
+  background-color: white;
+  color: rgb(100, 100, 90);
+  padding: inherit;
+}
+p {
+  font-size: 200%;
+  padding: 20px;
+  text-align: center;
+}
+p.one {
+  background-color: #eeeeee;
+  color: #666666;
+  text-shadow: 1px 1px 0px #000000;
+}
+p.two {
+  background-color: #dddddd;
+  color: #666666;
+  text-shadow: 1px 1px 3px #666666;
+}
+p.three {
+  background-color: #cccccc;
+  color: #ffffff;
+  text-shadow: 2px 2px 7px #111111;
+}
+p.four {
+  background-color: #bbbbbb;
+  color: #cccccc;
+  text-shadow: -1px -2px #666666;
+}
+p.five {
+  background-color: #aaaaaa;
+  color: #ffffff;
+  text-shadow: -1px -1px #666666;
+}
